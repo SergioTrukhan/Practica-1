@@ -1,1 +1,1 @@
-# Practica-1
+# Training-1
